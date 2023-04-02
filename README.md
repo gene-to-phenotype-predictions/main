@@ -8,7 +8,7 @@ Three GitHub projects comprise the codebase for the Gene-to-Phenotype Precitions
 
 - [code](https://github.com/gene-to-phenotype-predictions/ehninger)
 
-## Machine Learning Molecular Prediction (WP2)
+## Machine Learning Phenotype Prediction (WP2)
 
 - [code](https://github.com/gene-to-phenotype-predictions/bert_dna_weight)
 
