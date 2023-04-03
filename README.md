@@ -11,6 +11,7 @@ Three GitHub projects comprise the codebase for the Gene-to-Phenotype Precitions
 ## Machine Learning Phenotype Prediction (WP2)
 
 - [code](https://github.com/gene-to-phenotype-predictions/bert_dna_weight)
+- [data](https://drive.google.com/drive/folders/1Exv-jo6RlcHdD5fPYqSA0v3TN0FGducF?usp=sharing)
 
 ## Baseline TF-IDF Analysis (WP3)
 
