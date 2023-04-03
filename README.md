@@ -7,6 +7,7 @@ Three GitHub projects comprise the codebase for the Gene-to-Phenotype Precitions
 ## Multi-level Gene Feature-based Phenotype Prediction (WP1)
 
 - [code](https://github.com/gene-to-phenotype-predictions/ehninger)
+- [data](https://drive.google.com/drive/folders/1z2tPAdBlrSsVvAuO5ICsRmbGRBLbeSnd)
 
 ## Machine Learning Phenotype Prediction (WP2)
 
